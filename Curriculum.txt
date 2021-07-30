@@ -1,0 +1,34 @@
+Wordpress Basic Setup
+  Preview
+  Local Hosting
+  Basic Site Setup
+  Installing Divi
+
+Divi Essentials
+  Preview
+  Understanding the interface ,both external and internal?
+  Divi Shortcuts ?
+  Refer Divi Youtube Channel
+
+Mini Projects
+  Preview
+  Header and Footer in Divi
+  Landing Page in Divi
+  Gallery 
+  Carousel
+  Forms
+  Timeline 
+
+Mega Project 
+  Preview
+  Home
+  About
+  Contact
+
+
+
+
+
+  
+  
+
